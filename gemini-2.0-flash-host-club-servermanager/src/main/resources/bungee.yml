@@ -1,0 +1,9 @@
+ name: PlayerServerPlugin
+ main: PlayerServerPlugin
+ version: 1.0
+ author: YourName
+ description: Allows players to create their own Minecraft servers.
+ permissions:
+  playerserver.command.server:
+   description: Allows players to use the /server command.
+   default: true

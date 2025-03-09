@@ -1,0 +1,15 @@
+ database:
+  host: "localhost"
+  port: 3306
+  database: "playerservers"
+  username: "root"
+  password: "password"
+
+ server_limits:
+  ram_mb: 1024
+  storage_mb: 1024
+  inactivity_shutdown_minutes: 30
+
+ pre_approved_plugins:
+  - "EssentialsX"
+  - "WorldEdit"
