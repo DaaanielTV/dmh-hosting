@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>PlayerServerPlugin</name>
+    <name>GEMINI-2.0-PlayerServerPlugin</name>
     <description>A plugin for managing player servers.</description>
 
     <properties>
