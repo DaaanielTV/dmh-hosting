@@ -20,6 +20,6 @@ Explore our professional hosting solutions:
 
 ## Community
 
-Join our community to connect with professionals, share insights, and stay updated on the latest service enhancements.
+Join our [community](https://discord.gg/tzSGpFbQZA) to connect with professionals, share insights, and stay updated on the latest service enhancements.
 
 For detailed guidelines regarding contributions and licensing, please refer to our [LICENSE Agreement](#file:LICENSE).
