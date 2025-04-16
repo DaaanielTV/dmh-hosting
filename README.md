@@ -8,11 +8,8 @@ Our platform delivers professional hosting services covering Minecraft server ho
 * Multi-Platform Compatibility: Host Minecraft servers, Discord bots, TeamSpeak servers, and other applications.
 * Configurable Settings: Customize server settings to meet your requirements.
 * Reliable Performance: Experience consistent uptime and performance quality.
-* 24/7 Professional Support: Receive expert assistance whenever needed.
 
 ## Getting Started
-
-Explore our professional hosting solutions:
 
 * Discord Bot Hosting: Automate and manage your Discord server with tailored bots.
 * Minecraft Server Management: Easily control and configure your Minecraft environments.
