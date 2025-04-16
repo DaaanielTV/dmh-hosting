@@ -1,15 +1,30 @@
- database:
+database:
   host: "localhost"
   port: 3306
   database: "playerservers"
   username: "root"
   password: "password"
 
- server_limits:
+server_limits:
   ram_mb: 1024
   storage_mb: 1024
   inactivity_shutdown_minutes: 30
 
- pre_approved_plugins:
+pre_approved_plugins:
   - "EssentialsX"
   - "WorldEdit"
+
+resource_world:
+  enabled: true
+  name: "resource_world"
+  regeneration_interval: 10080  # 7 days in minutes
+  template: "resource_template"
+  warning_times:
+    - 1440  # 24 hours
+    - 60    # 1 hour
+    - 15    # 15 minutes
+    - 5     # 5 minutes
+    - 1     # 1 minute
+  auto_teleport: true
+  spawn_world: "hub"
+  backup_old_world: false
