@@ -15,8 +15,4 @@ Our platform delivers professional hosting services covering Minecraft server ho
 * Minecraft Server Management: Easily control and configure your Minecraft environments.
 * TeamSpeak Server Hosting: Secure and dependable hosting for real-time communication.
 
-## Community
-
-Join our [community](https://discord.gg/tzSGpFbQZA) to connect with professionals, share insights, and stay updated on the latest service enhancements.
-
 For detailed guidelines regarding contributions and licensing, please refer to our [LICENSE Agreement](#file:LICENSE).
